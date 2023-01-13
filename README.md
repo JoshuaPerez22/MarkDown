@@ -1,4 +1,4 @@
-## Hi I'm Joshua, there are some facts about me:
+## Hi I'm Joshua Perez, there are some facts about me:
 
 - 🙋‍ I'm 21 years old
 - :bookmark: I'm studying Applied Mathematics and Computing

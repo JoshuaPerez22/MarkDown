@@ -4,7 +4,8 @@
 - :bookmark: I'm studying Applied Mathematics and Computing
 - 🔭 I’m currently doing my professional practices at Madd Systems
 - 🌱 I’m currently learning Backend development with Django by myself
-- 😄 Pronouns: He
+-  Pronouns: He
+
 
 <!--
 - 👯 I’m looking to collaborate on ...

@@ -8,6 +8,19 @@ Y presionando enter
 ##### Encabezado 5
 ###### Encabezado 6
 
+### Citas
+
+> Esto es una cita
+
+> Esto es otra cita  
+> Y aquí continúa
+
+> Esto es una cita
+>
+> > Cita anidada  
+> 
+> Continuación cita principal
+
 ### Listas
 
 - Elemento 1
@@ -16,7 +29,13 @@ Y presionando enter
 
 ##### Sublistas
 
+- Elemento 1
+  - Elemento 2
+    - Elemento 3
 
+1. Elemento 1
+   - Elemento 2
+       1. Elemento 3
 
 ### Códigos de bloque
 ~~~

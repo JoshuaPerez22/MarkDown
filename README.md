@@ -1,15 +1,26 @@
-## Hi I'm Joshua Perez, there are some facts about me:
+Los saltos de línea se dan con doble espacio.  
+Y presionando enter
 
-- 🙋‍ I'm 21 years old
-- :bookmark: I'm studying Applied Mathematics and Computing
-- 🔭 I’m currently doing my professional practices at Madd Systems
-- 🌱 I’m currently learning Backend development with Django by myself
-- 😄 Pronouns: He
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+### Listas
+
+- Elemento 1
+* Elemento 2
++ Elemento 3
+
+##### Sublistas
+
+
+
+### Códigos de bloque
+~~~
+Creando códigos de bloque.
+Puedes añadir tantas líneas y párrafos como quieras.
+print("Hola mundo")
+~~~

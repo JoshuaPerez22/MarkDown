@@ -65,3 +65,11 @@ ___cursiva y negrita___
 ### Links o enlaces
 
 [click aquí](https://github.com/JoshuaPerez22)
+
+### Código
+
+Esto imprime Hola mundo en python `print('Hola mundo')`
+
+<pre> <h4>Esto es una línea de código</h4 </pre>
+
+

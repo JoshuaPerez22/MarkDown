@@ -43,3 +43,25 @@ Creando códigos de bloque.
 Puedes añadir tantas líneas y párrafos como quieras.
 print("Hola mundo")
 ~~~
+
+### Líneas horizontales
+
+***
+* * *
+---
+- - - 
+___
+_ _ _
+
+### Énfasis
+
+*cursiva*  
+_cursiva_  
+**negrita**  
+__negrita__  
+***cursiva y negrita***  
+___cursiva y negrita___    
+
+### Links o enlaces
+
+[click aquí](https://github.com/JoshuaPerez22)

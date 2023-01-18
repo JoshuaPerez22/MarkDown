@@ -80,3 +80,7 @@ Esto imprime Hola mundo en python `print('Hola mundo')`
 ### Link automático
 
 <https://github.com/JoshuaPerez22>
+
+### Omitir Markdown
+
+\# Joshua

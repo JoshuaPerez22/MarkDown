@@ -72,4 +72,6 @@ Esto imprime Hola mundo en python `print('Hola mundo')`
 
 <pre> <h4>Esto es una línea de código</h4 </pre>
 
+### Imágenes
 
+![Python](imagenes/descarga.jpeg "Python")

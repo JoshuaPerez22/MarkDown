@@ -10,7 +10,7 @@ Aprender muchas cosas nuevas y tener una mejor idea de lo que es el mundo labora
 
 - **Habilidades:**
   - **Responsable**
-  - **Versátil**
+  - **Se programar**
   - **Constante**
   - **Puntual**
   - **Empático**

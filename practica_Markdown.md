@@ -43,5 +43,6 @@ Aprender muchas cosas nuevas y tener una mejor idea de lo que es el mundo labora
 
 <https://madd.com.mx/>  
 <https://markdown.es/sintaxis-markdown/>  
-["Haz click aquí"](https://gpscontrol.com.mx/videovigilancia-movil/)
+["Haz click aquí"](https://gpscontrol.com.mx/videovigilancia-movil/)  
 
+![Yo Cx](imagenes/joshua.jpeg "Yo Cx")

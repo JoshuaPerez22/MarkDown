@@ -75,7 +75,7 @@ Esto imprime Hola mundo en python `print('Hola mundo')`
 ### Imágenes
 
 ![Python](imagenes/descarga.jpeg "Python")
-![Python](https://github.com/JoshuaPerez22/Curso_Git/blob/master/imagenes/descarga.jpeg "Python")
+![Python](https://github.com/JoshuaPerez22/MarkDown/blob/master/imagenes/descarga.jpeg "Python")
 
 ### Link automático
 
